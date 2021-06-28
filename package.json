@@ -1,6 +1,6 @@
 {
   "name": "webpack-numbers-new",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "",
   "main": "dist/webpack-numbers.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "dist"
   ],
   "author": "txw2018",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "lodash": "^4.17.21",
     "webpack": "^5.40.0",
