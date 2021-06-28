@@ -1,14 +1,18 @@
 {
-  "name": "webpack-numbers",
+  "name": "webpack-numbers-new",
   "version": "1.0.0",
   "description": "",
   "main": "dist/webpack-numbers.js",
-  "module": "src/index.js",
   "scripts": {
     "build": "webpack --config webpack.config.js",
+    "prepub": "npm run build",
     "pub": "sh release.sh"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:txw2018/webpack-numbers.git"
+  },
+  "author": "txw2018",
   "license": "ISC",
   "devDependencies": {
     "lodash": "^4.17.21",
