@@ -5,7 +5,7 @@
   "main": "dist/webpack-numbers.js",
   "scripts": {
     "build": "webpack --config webpack.config.js",
-    "prepub": "npm run build",
+    "prepub": "npm run build --no-cache",
     "pub": "sh release.sh"
   },
   "repository": {
