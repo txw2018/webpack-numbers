@@ -16,7 +16,7 @@
     "dist"
   ],
   "author": "txw2018",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "lodash": "^4.17.21",
     "webpack": "^5.40.0",
