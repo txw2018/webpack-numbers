@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git@github.com:txw2018/webpack-numbers.git"
   },
+  "files":["dist"],
   "author": "txw2018",
   "license": "ISC",
   "devDependencies": {
